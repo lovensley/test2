@@ -1,0 +1,22 @@
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\bin\Release\CapaNegocio.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\bin\Release\CapaNegocio.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\bin\Release\CadaDatos.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\bin\Release\CapaEntidad.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\bin\Release\CadaDatos.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\bin\Release\CapaEntidad.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.csproj.CopyComplete
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\bin\Release\CadaDatos.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\bin\Release\CadaDatos.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.csproj.CopyComplete
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaNegocio\obj\Release\CapaNegocio.pdb

@@ -1,0 +1,18 @@
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\bin\Release\CadaDatos.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\bin\Release\CadaDatos.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\bin\Release\CapaEntidad.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\bin\Release\CapaEntidad.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Release\CadaDatos.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Release\CadaDatos.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\bin\Release\CadaDatos.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\bin\Release\CadaDatos.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\bin\Release\CapaEntidad.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Release\CadaDatos.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Release\CadaDatos.pdb

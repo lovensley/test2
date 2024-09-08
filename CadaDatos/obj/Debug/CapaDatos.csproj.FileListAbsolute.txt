@@ -1,0 +1,72 @@
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.dll
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.pdb
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.dll
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.pdb
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.dll
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.pdb
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.dll
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.pdb
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.dll
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.pdb
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.dll
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.pdb
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.dll
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.pdb
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.dll
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.pdb
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.dll
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.pdb
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.dll
+C:\Users\Ok Pc\Desktop\MVCTest1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.pdb
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\bin\Debug\CadaDatos.dll
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\bin\Debug\CadaDatos.pdb
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\obj\Debug\CadaDatos.dll
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CadaDatos\obj\Debug\CadaDatos.pdb
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.dll
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\bin\Debug\CadaDatos.pdb
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.dll
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CadaDatos\obj\Debug\CadaDatos.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\bin\Debug\CadaDatos.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\bin\Debug\CadaDatos.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Debug\CadaDatos.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CadaDatos\obj\Debug\CadaDatos.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\bin\Debug\CadaDatos.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\bin\Debug\CadaDatos.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Debug\CadaDatos.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CadaDatos\obj\Debug\CadaDatos.pdb

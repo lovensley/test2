@@ -1,0 +1,12 @@
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\bin\Release\CapaEntidad.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\bin\Release\CapaEntidad.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\obj\Release\CapaEntidad.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\obj\Release\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\obj\Release\CapaEntidad.pdb

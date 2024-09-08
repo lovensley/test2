@@ -1,0 +1,42 @@
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Ok Pc\Desktop\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\My Drive\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+G:\Mi unidad\ing. Lovensley\MVCTest1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\lfpc\Desktop\MVCTest1.1.3\MVCTest1.1.3\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Ok Pc\Desktop\MVCTest1.1\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+H:\My Drive\ing. Lovensley\CARRITO DE COMPRA ASP.NET MVC\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\lfpc\Desktop\WEB DEVELOPMENT\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
